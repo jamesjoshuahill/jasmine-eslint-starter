@@ -21,13 +21,6 @@ using:
     - Search for the `linter-eslint` package
     - Click **Install**
 
-1. Configure `linter-eslint` package
-    - Go to **Atom > Preferences > Packages**
-    - Search for the `linter-eslint` package
-    - Click **Settings**
-    - Check `Use global ESLint installation`
-
-
 ## Start a new project
 
 1. Create a directory for your new project
